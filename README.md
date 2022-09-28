@@ -1,8 +1,8 @@
-## Hello, stranger! Welcome to Ingrid Giany's head 👋
-- 💻 Atualmente estou trabalhando com a criação de landing pages e portifólios
-- 🚀 Estou estudando JavaScript avançado e React 
-- 📫 Você pode me contatar pelo e-mail: ingridgianys@gmail.com 
-- ⚡ Fato interessante: Meu primeiro contato com programação foi aos 16 anos
+## Hello, stranger! 👋 Welcome to Ingrid Giany's head 
+1. 💻 Atualmente estou trabalhando com a criação de landing pages e portifólios
+2. 🚀 Estou estudando JavaScript avançado e React 
+3. 📫 Você pode me contatar pelo e-mail: ingridgianys@gmail.com 
+4. ⚡ Fato interessante: Meu primeiro contato com programação foi aos 16 anos
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridgiany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
