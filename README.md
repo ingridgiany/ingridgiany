@@ -1,4 +1,4 @@
-### Hello stranger 👋
+### Hello, stranger! 👋
 
 - 💻 Atualmente estou trabalhando com a criação de landing pages e portifólios
 - 🚀 Estou estudando JavaScript avançado e React 
