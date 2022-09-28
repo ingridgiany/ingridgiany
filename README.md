@@ -12,7 +12,7 @@
 const express = require('express')
 const app = express()
 
-const webDeveloper = {name:"Alexandre", stack:"Full-Stack-Developer"}
+const webDeveloper = {name:"Ingrid", stack:"Front-End-Developer"}
 
 app.get('/', (req, res) =>{
   return res.send(webDeveloper)
