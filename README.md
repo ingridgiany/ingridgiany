@@ -25,8 +25,8 @@ app.listen(3000, () =>{
 ```
 ## **Linguagens e Ferramentas:**  
 <div style="display: inline_block"><br>
-  <img src="https://i.imgur.com/0k0MQgt.png" width="50" height="60" align="center"/>
-  <img src="https://i.imgur.com/fyQtvNW.png" width="50" height="60" align="center"/>
+  <img src="https://i.imgur.com/gKsCCDj.png" width="60" height="60" align="center"/>
+  <img src="https://i.imgur.com/xnp3wv1.png" width="60" height="60" align="center"/>
   <img src="https://i.imgur.com/Bx5Igkb.png" width="50" height="40" align="center"/>
 </div>
 <br>
