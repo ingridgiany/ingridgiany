@@ -50,5 +50,5 @@ app.listen(3000, () =>{
 </p>
 <br>
 
-![snake gif](https://github.com/ingridgiany/ingridgiany/blob/output/github-contribution-grid-snake.svg)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ingridgiany&theme=gotham&hide_border=true&area=true)
 
