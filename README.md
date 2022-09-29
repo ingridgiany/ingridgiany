@@ -4,7 +4,7 @@
 📫 Você pode me contatar pelo e-mail: ingridgianys@gmail.com  
 ⚡ Fato interessante: Meu primeiro contato com programação foi aos 16 anos  
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://i.imgur.com/drDVWYQ.png">  Mais sobre mim
 
 <img align="right" width="300" src="https://c.tenor.com/eHNIRx5Nd5cAAAAS/baby-typing.gif" />
 
@@ -27,7 +27,7 @@ app.listen(3000, () =>{
 <div style="display: inline_block"><br>
   <img src="https://i.imgur.com/0k0MQgt.png" width="50" height="60" align="center"/>
   <img src="https://i.imgur.com/fyQtvNW.png" width="50" height="60" align="center"/>
-  <img src="https://i.imgur.com/VwzNaB7.png" width="50" height="60" align="center"/>
+  <img src="https://i.imgur.com/Bx5Igkb.png" width="50" height="40" align="center"/>
 </div>
 <br>
 <div align="justify">
