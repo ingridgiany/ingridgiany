@@ -4,7 +4,7 @@
 📫 Você pode me contatar pelo e-mail: ingridgianys@gmail.com  
 ⚡ Fato interessante: Meu primeiro contato com programação foi aos 16 anos  
 
-## <img width="45" alt="about" src="https://i.imgur.com/drDVWYQ.png">  Mais sobre mim
+## <img width="45" alt="about" src="https://i.imgur.com/2067ugX.png">  Mais sobre mim
 
 <img align="right" width="300" src="https://i.gifer.com/origin/68/6877f317fd8ab418202d6fa146076e61.gif" />
 
