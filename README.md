@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID+GIANY'S+HEAD🧠;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a3c801&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID+GIANY'S+HEAD🧠;)](https://git.io/typing-svg)
 
 ##
 💻 Atualmente estou trabalhando com a criação de landing pages e portifólios  
