@@ -26,11 +26,11 @@ app.listen(3000, () =>{
 ## **Linguagens e Ferramentas:**  
 <div style="display: inline_block"><br>
   <img src="https://i.imgur.com/gKsCCDj.png" width="60" height="60" align="center"/>
+  <img src="https://i.imgur.com/D0oDHZW.png" width="50" height="50" align="center"/>
   <img src="https://i.imgur.com/xnp3wv1.png" width="60" height="60" align="center"/>
-  <img src="https://i.imgur.com/Bx5Igkb.png" width="50" height="40" align="center"/>
 </div>
 <br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em; width="50%" src="https://github-readme-stats.vercel.app/api?username=ingridgiany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em; width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridgiany&layout=compact&langs_count=7&theme=dracula"/>
