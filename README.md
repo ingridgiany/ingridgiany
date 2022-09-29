@@ -52,6 +52,6 @@ app.listen(3000, () =>{
 </p>
 <br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ingridgiany&theme=merko&hide_border=true&hide_title=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ingridgiany&theme=merko&hide_border=true&area=true)
 
 
