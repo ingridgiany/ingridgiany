@@ -32,8 +32,8 @@ app.listen(3000, () =>{
 <br>
 <div align="center">
   <a href="https://github.com/ingridgiany">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridgiany&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridgiany&layout=default&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridgiany&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridgiany&layout=default&langs_count=7&theme=ocean_dark"/>
 </div>
 
 ## **Vamos nos Conectar:**
@@ -50,6 +50,6 @@ app.listen(3000, () =>{
 </p>
 <br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ingridgiany&theme=high-contrast&hide_border=true&hide_title=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ingridgiany&theme=merko&hide_border=true&hide_title=true&area=true)
 
 
