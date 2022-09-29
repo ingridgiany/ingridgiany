@@ -6,7 +6,7 @@
 
 ## <img width="45" alt="about" src="https://i.imgur.com/drDVWYQ.png">  Mais sobre mim
 
-<img align="right" width="300" src="https://c.tenor.com/eHNIRx5Nd5cAAAAS/baby-typing.gif" />
+<img align="right" width="300" src="https://i.gifer.com/origin/68/6877f317fd8ab418202d6fa146076e61.gif" />
 
 ```javascript
 const express = require('express')
@@ -30,7 +30,7 @@ app.listen(3000, () =>{
   <img src="https://i.imgur.com/Bx5Igkb.png" width="50" height="40" align="center"/>
 </div>
 <br>
-<div align="justify">
+<div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="180em; width="50%" src="https://github-readme-stats.vercel.app/api?username=ingridgiany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em; width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridgiany&layout=compact&langs_count=7&theme=dracula"/>
