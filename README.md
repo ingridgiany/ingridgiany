@@ -50,6 +50,5 @@ app.listen(3000, () =>{
 </p>
 <br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ingridgiany&theme=merko&hide_title=true&hide_border=true&area=true)
-
+![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
 
