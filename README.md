@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=33&center=true&vCenter=true&width=1000&background=3E750A&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID+GIANY'S+HEAD🧠;)](https://git.io/typing-svg)
 
-💻 Atualmente estou trabalhando com a criação de projetos web como freelancer   
+💻 Atualmente estou trabalhando como freelancer    
 🚀 Estou estudando fullstack web development   
 📫 Você pode me contatar pelo e-mail: ingridgianys@gmail.com   
 ⚡ Fato interessante: Meu primeiro contato com programação foi aos 16 anos   
@@ -29,6 +29,7 @@ app.listen(3000, () =>{
   <img src="https://i.imgur.com/gKsCCDj.png" width="60" height="60" align="center"/>
   <img src="https://i.imgur.com/D0oDHZW.png" width="50" height="50" align="center"/>
   <img src="https://i.imgur.com/xnp3wv1.png" width="60" height="60" align="center"/>
+  <img src="https://i.imgur.com/A0VDxib.png" width="60" height="60" align="center"/>
 </div>
 <br>
 <div align="center">
