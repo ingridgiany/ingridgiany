@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=33&center=true&vCenter=true&width=1000&background=3E750A&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID+GIANY'S+HEAD🧠;)](https://git.io/typing-svg)
 
-💻 Atualmente estou trabalhando com a criação de landing pages e portifólios  
-🚀 Estou estudando fullstack web development 
-📫 Você pode me contatar pelo e-mail: ingridgianys@gmail.com  
-⚡ Fato interessante: Meu primeiro contato com programação foi aos 16 anos  
+💻 Atualmente estou trabalhando com a criação de projetos web como freelancer   
+🚀 Estou estudando fullstack web development   
+📫 Você pode me contatar pelo e-mail: ingridgianys@gmail.com   
+⚡ Fato interessante: Meu primeiro contato com programação foi aos 16 anos   
 
 ## <img width="45" alt="about" src="https://i.imgur.com/i0ccAph.png">  Mais sobre mim
 
