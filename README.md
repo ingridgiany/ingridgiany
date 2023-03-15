@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=33&center=true&vCenter=true&width=1000&background=3E750A&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID+GIANY'S+HEAD🧠;)](https://git.io/typing-svg)
  
-💻 Estudante de Ciência da Computação
+💻 Computer Science Student  
 🚀 Front end Developer     
-⚡ Fato interessante: Meu primeiro contato com programação foi aos 16 anos   
+⚡ Interesting fact: My first contact with programming was when I was 16       
 
 ## <img width="45" alt="about" src="https://i.imgur.com/i0ccAph.png">  Mais sobre mim
 
