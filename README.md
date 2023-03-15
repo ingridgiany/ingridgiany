@@ -4,7 +4,7 @@
 🚀 Front End Developer     
 ⚡ Interesting fact: My first contact with programming was when I was 16       
 
-## <img width="45" alt="about" src="https://i.imgur.com/i0ccAph.png">  Mais sobre mim
+## <img width="45" alt="about" src="https://i.imgur.com/i0ccAph.png">  More about me
 
 <img align="right" width="300" src="https://i.gifer.com/origin/68/6877f317fd8ab418202d6fa146076e61.gif" />
 
@@ -23,7 +23,7 @@ app.listen(3000, () =>{
 })
 
 ```
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools**  
 <div style="display: inline_block">
   <img src="https://i.imgur.com/gKsCCDj.png" width="60" height="60" align="center"/>
   <img src="https://i.imgur.com/D0oDHZW.png" width="50" height="50" align="center"/>
@@ -36,7 +36,7 @@ app.listen(3000, () =>{
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridgiany&layout=default&hide_border=true&langs_count=7&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
   
-## **Vamos nos Conectar:**
+## **Let's Connect**
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/ingridgiany/" alt="Linkedin">
