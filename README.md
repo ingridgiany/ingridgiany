@@ -2,7 +2,7 @@
  
 💻 Computer Science Student  
 🚀 Front End Developer     
-⚡ Interesting fact: My first contact with programming was when I was 16 years old     
+    
 
 ## <img width="45" alt="about" src="https://i.imgur.com/i0ccAph.png">  More about me
 
