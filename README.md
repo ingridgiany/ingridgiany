@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=1000&background=011627&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID+GIANY'S+HEAD🧠;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=1000&background=3EAB5C&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID+GIANY'S+HEAD🧠;)](https://git.io/typing-svg)
  
 💻 Computer Science Student  
 🚀 Front End Developer     
@@ -32,8 +32,8 @@ app.listen(3000, () =>{
 </div>
 <br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridgiany&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridgiany&layout=default&hide_border=true&langs_count=7&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridgiany&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridgiany&layout=default&hide_border=true&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ## **Let's Connect**
