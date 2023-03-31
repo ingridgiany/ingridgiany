@@ -28,7 +28,8 @@ app.listen(3000, () =>{
   <img src="https://i.imgur.com/gKsCCDj.png" width="60" height="60" align="center"/>
   <img src="https://i.imgur.com/D0oDHZW.png" width="50" height="50" align="center"/>
   <img src="https://i.imgur.com/xnp3wv1.png" width="60" height="60" align="center"/>
- <img src="https://i.imgur.com/kOTHPjn.png" width="60" height="60" align="center"/>
+  <img src="https://i.imgur.com/kOTHPjn.png" width="60" height="60" align="center"/>
+  <img src="https://i.imgur.com/xyZ9L7a.png" width="60" height="60" align="center"/>
 </div>
 <br>
 <div align="center">
