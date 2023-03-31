@@ -33,7 +33,7 @@ app.listen(3000, () =>{
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridgiany&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridgiany&layout=default&hide_border=true&langs_count=7&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridgiany&hide=css,html&layout=default&hide_border=true&langs_count=7&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
   
 ## **Let's Connect**
