@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=1015&background=011627&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID+GIANY'S+HEAD🧠;)](https://git.io/typing-svg)
  
 💻 Computer Science Student  
-🚀 Fullstack Developer     
+🚀 Front End Developer     
     
 
 ## <img width="45" alt="about" src="https://i.imgur.com/i0ccAph.png">  More about me
