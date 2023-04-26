@@ -33,20 +33,20 @@ app.listen(3000, () =>{
 <br>
 <div align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ingridgiany&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ingridgiany&hide=&layout=default&hide_border=true&langs_count=7&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ingridgiany&layout=default&hide_border=true&langs_count=7&theme=nightowl&include_all_commits=true&show_icons=true&count_private=true"/>
 </div>
   
 ## **Let's Connect**
 
 <p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/ingridgiany/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/ingridgiany/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a target="_blank" href="https://www.instagram.com/shecodesbr/" alt="Instagram">
+  <a href="https://www.instagram.com/shecodesbr/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-   <a target="_blank" href="mailto:ingridgianys@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+   <a href="mailto:ingridgianys@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"</a>
 </p>
 <br>
 
