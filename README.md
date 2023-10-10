@@ -4,7 +4,9 @@
 🚀 Front End Developer     
     
 
-## <img width="45" alt="about" src="https://i.imgur.com/i0ccAph.png">  More about me
+## <img width="45" alt="about" src="https://i.imgur.com/i0ccAph.png"> **More about me**
+
+
 
 <img align="right" width="300" src="https://i.gifer.com/origin/68/6877f317fd8ab418202d6fa146076e61.gif" />
 
