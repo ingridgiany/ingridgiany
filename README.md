@@ -51,4 +51,4 @@ app.listen(3000, () =>{
 </p>
 <br>
 
-![snake gif](https://github.com/ingridgiany/ingridgiany/blob/output/github-contribution-grid-snake.gif)
+
