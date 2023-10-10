@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=1015&background=011627&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID'S+PROJECTS🧠;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=1015&background=011627&lines=HELLO,+STRANGER!👋+WELCOME+TO+INGRID'S+PROJECTS🖥️;)](https://git.io/typing-svg)
  
 💻 Computer Science Student  
 🚀 Front End Developer     
